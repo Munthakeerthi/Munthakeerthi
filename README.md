@@ -1,105 +1,196 @@
-<h1 align="center">Hi 👋, I'm Keerthi</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | Web Developer | Problem Solver</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4CAF50;">Muntha Keerthi</span>
+</h1>
+
+<h3 align="center">
+💻 Java Developer | 🌐 Web Developer | 🚀 Computer Science Engineer | ☕ Lifelong Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Frontend+Web+Developer;SQL+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Frontend+Web+Developer;Always+Learning+Something+New;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🌸 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering Student
+🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about Java, Web Development and Backend Development
+💙 Passionate about Java, Backend Development & Problem Solving
 
-🌱 Currently learning Spring Boot, DSA and System Design
-
-🎯 Goal: Become a Software Engineer at a Product-Based Company
-
-📍 India
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🛕 Temple Management System
-- Online Darshan Booking
-- Accommodation Booking
-- Donation Portal
-- Gallery
-- Login & Registration
-
-### 📄 AI Resume Analyzer
-- Resume Analysis
-- ATS Score
-- Skill Suggestions
-
-### 🎵 Music Player
-- Java/Python GUI Application
-- Audio Playback
-- Playlist Support
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Munthakeerthi&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Munthakeerthi&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munthakeerthi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌟 Currently Working On
-
-- Java Backend Development
+🌱 Currently learning
 - Spring Boot
 - Data Structures & Algorithms
 - SQL
-- Building Full Stack Projects
+- System Design
+
+🚀 Goal
+> To become a Software Engineer in a leading Product or Service Based Company.
+
+✨ I love building websites and learning new technologies every day.
 
 ---
 
-## 📫 Connect with Me
+# 🛠 Tech Stack
 
-📧 Email: your-email@example.com
+## 👨‍💻 Programming Languages
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
 
-🌐 Portfolio: Coming Soon
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛕 Temple Management System
+
+✔ Online Darshan Booking
+
+✔ Accommodation Booking
+
+✔ Donation Portal
+
+✔ User Login & Registration
+
+✔ Gallery
+
+**Tech Used**
+
+HTML • CSS • JavaScript
+
+---
+
+## 📄 AI Resume Analyzer
+
+✔ Resume Analysis
+
+✔ ATS Score
+
+✔ Skill Suggestions
+
+✔ Resume Improvement Tips
+
+---
+
+## 🎵 Music Player
+
+✔ Interactive GUI
+
+✔ Playlist Support
+
+✔ Audio Controls
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Munthakeerthi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munthakeerthi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Munthakeerthi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Munthakeerthi&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Munthakeerthi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+🌟 Java Backend Development
+
+🌟 Spring Boot
+
+🌟 SQL
+
+🌟 REST APIs
+
+🌟 Data Structures & Algorithms
+
+🌟 Open Source Contributions
+
+---
+
+# 💡 Quote I Believe In
+
+> **"Success is built one commit at a time."** 🚀
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Munthakeerthi&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Thank you for visiting my profile! ✨
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 </p>
