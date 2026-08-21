@@ -1,260 +1,338 @@
-# 👋 Hi, I'm Keerthi
-
-### 💻 Computer Science Engineer | Java & Python Developer | Full-Stack & Data Enthusiast
+# 🌟 Hey there, I'm **Keerthi!** 👋
 
 <p align="center">
-  <a href="https://github.com/Munthakeerthi">
-    <img src="https://img.shields.io/badge/GitHub-Munthakeerthi-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/muntha-keerthi-654a01305/">
-    <img src="https://img.shields.io/badge/LinkedIn-Keerthi-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Graduate;Java+%7C+Python+%7C+SQL+%7C+Web+Development;Software+Developer+%7C+Problem+Solver;Building+Projects+%7C+Learning+Every+Day+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:00BBF9,100:00F5D4&height=120&section=header"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💜 About Me
 
-I'm a **Computer Science Engineering graduate** interested in building practical software solutions using **Java, Python, SQL, web technologies, and AI/ML**.
+<table>
+<tr>
+<td width="55%">
 
-I enjoy turning ideas into working applications, learning new technologies, and solving problems through clean and structured code.
+🎓 **Computer Science Engineering Graduate**
 
-* 🔭 Currently strengthening my skills in **Java, Spring Boot, SQL & Full-Stack Development**
-* 🌱 Exploring **REST APIs, Data Structures & Algorithms, Data Analytics and AI**
-* 💡 Interested in **Software Development, Backend Development and Data-driven Applications**
-* 🚀 Passionate about building projects that solve real-world problems
-* 🧩 Strong interest in **problem solving and continuous learning**
-* 🎯 Career goal: **Software Developer / Java Full-Stack Developer**
+💻 Passionate about **Software Development**
+
+☕ Interested in **Java & Backend Development**
+
+🐍 Working with **Python & Data**
+
+🌐 Exploring **Full-Stack Web Development**
+
+🤖 Interested in **AI, Machine Learning & Data Analytics**
+
+🧠 Love solving problems and learning new technologies
+
+🚀 Goal: Become a strong **Software / Full-Stack Developer**
+
+</td>
+
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dev-working.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 My Interest Profile
+# 🌈 My Developer Journey
 
 ```text
-Software Development       ████████████████████  95%
-Backend Development        ███████████████████░  90%
-Java                       ██████████████████░░  85%
-Python                     █████████████████░░░  80%
-SQL & Databases             █████████████████░░░  80%
-Web Development             ████████████████░░░░  75%
-Data Analytics              ███████████████░░░░░  70%
-AI / Machine Learning       ██████████████░░░░░░  65%
+              🌱 LEARN
+                 │
+                 ▼
+          💻 PROGRAMMING
+                 │
+                 ▼
+          🛠️ BUILD PROJECTS
+                 │
+                 ▼
+           🧠 SOLVE PROBLEMS
+                 │
+                 ▼
+          🚀 IMPROVE & GROW
 ```
 
-> **Note:** This represents my current learning focus and interests, not formal proficiency scores.
+---
+
+# 🎨 My Interest Profile
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Development-9B5DE5?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F15A24?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-00BBF9?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Web%20Development-00F5D4?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-FEE440?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-F15BB5?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-8338EC?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack
 
-### 💻 Programming
+### 🟣 Programming Languages
 
-`Java` `Python` `C` `JavaScript`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+</p>
 
-### 🌐 Web Development
+### 🔵 Web Technologies
 
-`HTML5` `CSS3` `JavaScript` `React`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
 
-### ⚙️ Backend & APIs
+### 🟢 Backend & Database
 
-`Java` `Spring Boot` `REST APIs`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+</p>
 
-### 🗄️ Databases
+### 🟠 Tools
 
-`MySQL` `SQL`
-
-### 📊 Data & AI
-
-`Data Analytics` `Machine Learning` `NLP` `Federated Learning`
-
-### 🔧 Tools
-
-`Git` `GitHub` `VS Code` `MySQL Workbench` `Jupyter Notebook`
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Enhancing Federated Learning Security
-
-**AWB-FedAvg + Blockchain + Ensemble Defense**
-
-A research-oriented project focused on protecting Federated Learning systems against model poisoning attacks.
-
-**Key areas:**
-
-* Adaptive Weight-Based Federated Averaging
-* Blockchain-based model integrity verification
-* Reputation-based client evaluation
-* Poisoning attack detection
-* Ensemble defense mechanism
-
-**Tech:** `Python` `Machine Learning` `Federated Learning` `Blockchain`
-
-🔗 **[View Project](https://github.com/Munthakeerthi/AWB-FedAvg-Defense)**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
+</p>
 
 ---
 
-### 🛕 TTD Website
+# 📊 My Current Focus
 
-A responsive temple website designed with a focus on structured UI and user-friendly navigation.
+```text
+☕ Java & Backend Development       ████████████████████  🔥
+🐍 Python                          ██████████████████░░  🚀
+🗄️ SQL & Databases                 ██████████████████░░  💪
+🌐 Web Development                  ████████████████░░░░  🌱
+📊 Data Analytics                   ███████████████░░░░░  🌱
+🤖 Artificial Intelligence          ██████████████░░░░░░  🌱
+```
 
-**Features:**
-
-* Darshan information
-* Accommodation information
-* Donation section
-* Gallery
-* Responsive interface
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🔗 **[View Project](https://github.com/Munthakeerthi/ttd-website)**
+> 🌱 These represent my **current learning and career focus**, not formal proficiency percentages.
 
 ---
 
-### 🤖 AI Resume Analyzer
+# 🚀 Featured Projects
 
-An AI-powered resume analysis concept designed to help candidates understand and improve their resumes.
+<table>
+<tr>
+<td width="50%">
 
-**Key features:**
+## 🛡️ Federated Learning Security
 
-* Resume analysis
-* Keyword extraction
-* Skill identification
-* ATS-oriented analysis
-* Skill gap identification
-* Resume improvement suggestions
+### 🔬 AWB-FedAvg + Blockchain
+
+A research project focused on protecting Federated Learning systems from poisoning attacks.
+
+**Tech Stack**
+
+`Python` `ML` `Blockchain` `Federated Learning`
+
+🔗 **Research Project**
+
+</td>
+
+<td width="50%">
+
+## 🛕 TTD Website
+
+A responsive temple website with multiple sections and modern UI.
+
+**Features**
+
+🎫 Darshan
+🏨 Accommodation
+💰 Donations
+🖼️ Gallery
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/Munthakeerthi/ttd-website)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Resume Analyzer
+
+AI-powered resume analysis system.
+
+🔍 Keyword extraction
+🧠 Skill identification
+📊 ATS analysis
+🎯 Skill gap analysis
 
 **Tech:** `Python` `NLP` `AI`
 
----
+</td>
 
-### 📝 Kodnest Institute Blog
+<td width="50%">
 
-A structured web project demonstrating semantic HTML and responsive webpage design.
+## 🎵 Python Music Player
 
-**Tech:** `HTML5` `CSS3`
+Desktop music player built using Python.
 
-🔗 **[View Project](https://github.com/Munthakeerthi/Kodnest-institute-blog)**
-
----
-
-### 🎵 Music Player
-
-A Python-based desktop music player with an interactive graphical interface.
-
-**Features:**
-
-* Audio playback
-* Playlist management
-* Interactive GUI
+🎵 Audio playback
+📂 Playlist
+🖥️ GUI
 
 **Tech:** `Python` `Tkinter` `Pygame`
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Activity
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munthakeerthi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munthakeerthi&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://img.shields.io/badge/🏅%20NPTEL-Joy%20of%20Computing%20Using%20Python-9B5DE5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆%20Achievement-First%20Prize-FEE440?style=for-the-badge&labelColor=333"/>
+
+<img src="https://img.shields.io/badge/📄%20Research-ICCET%202026-00BBF9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻%20Internship-Python%20Internship-00F5D4?style=for-the-badge&labelColor=333"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📚 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munthakeerthi&theme=tokyo-night&hide_border=true" />
+
+🟣 **Java**
+⬇️
+🔵 **Advanced Java**
+⬇️
+🟢 **Spring Boot**
+⬇️
+🟠 **REST APIs**
+⬇️
+🔴 **SQL & Database Design**
+⬇️
+🟡 **Data Structures & Algorithms**
+⬇️
+💜 **Full-Stack Development**
+
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
+# 📈 GitHub Statistics
 
-* 🏅 **NPTEL – Joy of Computing Using Python**
-* 🏅 **HackerRank – SQL (Basic)**
-* 🏅 **Python Internship – ThinkChamp**
-* 🏆 **First Prize – Secure Blood Donation Management System**
-* 📄 **Research Paper – ICCET 2026**
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Munthakeerthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
 
-## 🎯 Current Learning Roadmap
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munthakeerthi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-```text
-Java
-  ↓
-Advanced Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-SQL & Database Design
-  ↓
-Full-Stack Development
-  ↓
-Data Structures & Algorithms
-  ↓
-AI / Data Analytics
-```
+</p>
 
 ---
 
-## 💡 What I Like Building
+# 🔥 GitHub Streak
 
-| Area                    | What interests me                        |
-| ----------------------- | ---------------------------------------- |
-| 💻 Software Development | Practical applications & problem solving |
-| ⚙️ Backend              | Java, Spring Boot & REST APIs            |
-| 🌐 Web Development      | Responsive and user-friendly interfaces  |
-| 🗄️ Databases           | SQL & database-driven applications       |
-| 🤖 AI/ML                | Intelligent and data-driven solutions    |
-| 📊 Data Analytics       | Extracting insights from data            |
-| 🔐 Security             | Secure and reliable applications         |
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Munthakeerthi&theme=tokyonight&hide_border=true&ring=9B5DE5&fire=F15BB5&currStreakLabel=00BBF9"/>
+
+</p>
 
 ---
 
-## 🌱 Beyond Code
+# 🐍 My Contribution Snake
 
-* 📚 Reading and continuous learning
-* 🏏 Following cricket
-* 🌎 Exploring new places
-* 🗣️ Learning new languages
-* 💡 Exploring new technologies
+<p align="center">
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
-## 🤝 Open to Opportunities
-
-I'm interested in **entry-level opportunities** in:
-
-`Software Development` • `Java Development` • `Full-Stack Development` • `Backend Development` • `Python Development` • `Data Analytics`
-
-I'm always open to learning, collaborating, and working on meaningful technology projects.
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🌱 My Learning Philosophy
+
+<p align="center">
+
+### 💡 Learn → 🛠️ Build → 🧠 Solve → 🚀 Improve
+
+</p>
+
+I believe the best way to learn technology is to **build real projects**, understand the problems behind them, and continuously improve through practice.
+
+---
+
+# 🎯 Career Interests
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💻%20Software%20Developer-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕%20Java%20Developer-F15A24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️%20Backend%20Developer-00BBF9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Full--Stack%20Developer-00F5D4?style=for-the-badge&labelColor=333"/>
+<img src="https://img.shields.io/badge/📊%20Data%20Analyst-FEE440?style=for-the-badge&labelColor=333"/>
+
+</p>
+
+---
+
+# 🏅 Certifications
+
+| 📜 Certification                 | 🏢 Platform |
+| -------------------------------- | ----------- |
+| 🐍 Joy of Computing Using Python | NPTEL       |
+| 🗄️ SQL (Basic)                  | HackerRank  |
+| 💻 Python Internship             | ThinkChamp  |
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/Munthakeerthi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muntha-keerthi-654a01305/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-### 💬 Developer Mindset
+<p align="center">
 
-> **"Learn continuously. Build practically. Solve problems. Improve every day."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:9B5DE5,100:00BBF9&height=120&section=footer"/>
 
-⭐ If you find any of my projects interesting, feel free to explore the repositories!
+### 💜 Thanks for visiting my profile!
+
+**⭐ Learn • Build • Solve • Grow 🚀**
+
+</p>
