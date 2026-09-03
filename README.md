@@ -256,8 +256,6 @@ A desktop music player built using Python.
 
 <img src="https://img.shields.io/badge/💻%20Internship-Python%20%7C%20ThinkChamp-F15BB5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🏆%20Award-First%20Prize-FEE440?style=for-the-badge&labelColor=333"/>
-
 <img src="https://img.shields.io/badge/📄%20Research-ICCET%202026-8338EC?style=for-the-badge"/>
 
 </p>
@@ -287,21 +285,8 @@ A desktop music player built using Python.
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Munthakeerthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munthakeerthi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -313,15 +298,7 @@ A desktop music player built using Python.
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Munthakeerthi&bg_color=0D1117&color=9B5DE5&line=00BBF9&point=F15BB5&area=true&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
